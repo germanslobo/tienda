@@ -1,0 +1,198 @@
+
+ 
+Chat transcript
+
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	Sat, 07/20/19 04:34:36 pm America/Panama	
+ 
+¡Bienvenido a Next U!
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:34:36 pm	
+ 
+Buen día
+Hola
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:34:46 pm	
+ 
+Muy buenas, Germán.
+¿Cómo vas?
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:35:57 pm	
+ 
+Hola Santiago. Estoy tratando de procesar la aplicaciòn de Angular, pero cuando abro el browser, localhost:4200 , se queda en "Loading"
+Compila bien con ng serve
+EStoy usando MongoDB
+abri tambien la consola de mongo
+pero no he logrado avanzar después de eso
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:37:17 pm	
+ 
+¿Estás empezando o ya habías avanzado?
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:37:45 pm	
+ 
+No había podido compilar por temas de versión,
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:37:51 pm	
+ 
+Mmmmmm
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:38:00 pm	
+ 
+tuve que desinstalar todo
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:38:05 pm	
+ 
+¿No habías compilado ni una sola vez?
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:38:27 pm	
+ 
+no, haste que instalé angular2
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:38:39 pm	
+ 
+¿Pero seguiste codificando aún así?
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:38:54 pm	
+ 
+si.
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:39:02 pm	
+ 
+Uff, pero complicado así.
+Porque pues no sabemos desde cuándo te empezó a dar el error.
+Y pueden haber múltiples.
+:/
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:39:45 pm	
+ 
+pero no habia podido compilar
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:40:00 pm	
+ 
+Si, pero en esos casos es mejor esperar a poder compilar y no seguir codificando.
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:40:09 pm	
+ 
+No sabia
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:40:19 pm	
+ 
+Porque pues luego te salen montones de errores y será mucho más complicado arreglarlo.
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:40:34 pm	
+ 
+pero ahora compila bien
+, bueno , y que puedo hacer Santiago
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:40:58 pm	
+ 
+Es complicada la situación.
+Enviame el proyecto
+A ver qué podemos corregir y ver cómo hacemos funcionar.
+:)
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:42:05 pm	
+ 
+Ok. Voy a terminar la versiòn de react y les mando la versiones como queden con las observaciones.
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:42:43 pm	
+ 
+Vale, perfecto.
+:)
+ 
+ 
+ 
+ 
+ 	German Sanchez Lobo	04:42:53 pm	
+ 
+Gracias Santiago
+ 
+ 
+ 
+ 
+ 
+You rated our customer service as good
+04:42:59 pm	
+ 
+ 
+ 
+ 
+ 	Santiago Martinez	04:43:01 pm	
+ 
+Un gusto, Germán.
+ 
+ 
+ 
+ 
+ 
+You left the following comment: Gracias Santiago por el apoyo
+04:43:20 pm	
+ 
+ 
+ 
+Duration: 9m 14s
+Chat started on: https://learn.nextu....sign/view.php?id=3617&pid=P_WEBDEV_V2

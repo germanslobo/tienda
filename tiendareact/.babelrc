@@ -1,0 +1,15 @@
+{
+  "presets": [
+    "module:metro-react-native-babel-preset",
+    "@babel/preset-env",
+    "@babel/preset-react",
+    "es2015",
+    "stage-0",
+    "react"
+  ],
+  "plugins": [
+    "transform-decorators-legacy",
+    "@babel/pluging-proposal-decorators",  
+  {"legacy":true}
+  ] 
+}
